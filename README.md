@@ -1,2 +1,2 @@
-# FCC-accessibility-quiz
-FreeCodeCamp building an accessibility quiz project
+#accessibility-quiz
+building an accessibility quiz project
